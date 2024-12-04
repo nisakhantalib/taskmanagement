@@ -24,10 +24,10 @@ A **Task Management** web application built with React, designed to help manage 
 ## Demo
 
 ### Home: User Management
-![User Management Screenshot](images/user_tab)
+![User Management Screenshot](images/user_tab.png)
 
 ### Tasks: Task Management
-![Task Management Screenshot](images/task_tab)
+![Task Management Screenshot](images/task_tab.png)
 
 ---
 
@@ -45,11 +45,10 @@ A **Task Management** web application built with React, designed to help manage 
    ```bash
    git clone https://github.com/nisakhantalib/taskmanagement.git
 
-2.  **Install Dependencies Make sure you have npm or yarn installed, then run:**
+2. **Install Dependencies Make sure you have npm or yarn installed, then run:**
+   ```bash
+   npm install
 
-```bash
-npm install
-
-3.  **Start the Development Server**
-```bash
-npm run dev
+3. **Start the Development Server**
+   ```bash
+   npm run dev
